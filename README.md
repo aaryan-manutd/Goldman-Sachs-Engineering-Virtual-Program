@@ -2,7 +2,7 @@
 This repository contains the submitted Memorandum(.docx) file assigned by Goldman Sachs Engineering Virtual Program
 
 ---
-## I have worked on the given task during the internship
+## I have worked on the given task during the virtual internship
 #### 1. Cracked leaked password database
 - Analyze results and propose uplifts to controls and policies
 - `Cryptography basics` 
